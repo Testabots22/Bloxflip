@@ -7,5 +7,6 @@ ONLY WORKS FOR MINES
 
 
 # VIDEO
-https://github.com/Testabots22/Bloxflip/assets/146148098/41f68004-ebf7-424c-8dce-0bf431c157cd
+https://github.com/Testabots22/Bloxflip/assets/146148098/1f4bf416-990e-40e4-acc9-55f8e4ee709a
+
 
